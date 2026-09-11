@@ -4,6 +4,5 @@
 
 <br>
 
-<!-- 블로그 및 연락처 뱃지 -->
+<!-- 블로그  -->
 <a href="https://velog.io/@soohyungit/posts"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
-<a href="mailto:soohyun5576@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
